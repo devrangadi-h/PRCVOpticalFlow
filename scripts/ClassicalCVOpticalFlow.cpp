@@ -2,7 +2,7 @@
 //  Classical Computer Vision.cpp
 //  FinalProjectPRCV
 //
-//  Created by Hardik Devrangadi on 4/22/23.
+//  Created by Hardik Devrangadi and Francis Jacob Kalliath on 4/22/23.
 //
 
 #include <iostream>

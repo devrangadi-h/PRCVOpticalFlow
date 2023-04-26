@@ -11,7 +11,31 @@ This comparative analysis provides valuable insights for researchers and practit
 
 
 
+## Team
+
+- Arun Madhusudhanan (madhusudhanan.a@northeastern.edu)
+- Francis Jacob Kalliath (jacobkalliath.f@northeastern.edu)
+- Hardik Devrangadi (devrangadi.h@northeastern.edu)
+- Tejaswini Dilip Deore (deore.t@northeastern.edu)
+
+
+
+## Presentation
+
+Presentation URL - https://northeastern-my.sharepoint.com/:p:/g/personal/devrangadi_h_northeastern_edu/EYIXaX8bJXFGnQ15EL2FotQBY9cYIQJ_5MbOdjIgaDqnJw?e=41NyUR
+
+Presentation Video (Contains all demo videos): https://www.youtube.com/watch?v=BMFYHfwHm0g
 ## Demo
 
-https://www.youtube.com/watch?v=BMFYHfwHm0g
+
+
+Face Tracking Using Optical Flow: https://youtu.be/YQDdv9CqYyA
+
+Classical Computer Vision Optical Flow: https://youtu.be/aHbXsap42-c
+
+Deep Learning Optical Flow: https://youtu.be/kpLF2yQc9fU
+
+Classical Computer Vision Optical Flow UI: https://youtu.be/nelAh5yYat4
+
+Optical Flow Results Comparison: https://youtu.be/S2ito1zSUEk
 
