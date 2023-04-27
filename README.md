@@ -9,7 +9,7 @@ Our experimental results highlight performance comparison of both the methods on
 
 This comparative analysis provides valuable insights for researchers and practitioners seeking to adopt a suitable optical flow estimation technique for their specific applications.
 
-![Workflow](https://imgur.com/a/rGTb4CH)
+![Workflow](https://i.imgur.com/Y94iPKT.png)
 
 
 ## Team
