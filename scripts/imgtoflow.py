@@ -4,6 +4,9 @@ Authors: Arun Madhusudhanan, Tejaswini Deore
 Project for CS 5330 Pattern Recogn & Comput Vision
 
 Title: Comparative Analysis of Optical Flow Techniques: Classical Computer Vision vs Deep Learning Approach
+
+This program takes an input sequence of frames and calculates optical flow using the Farneback algorithm. This script saves the generated optical flow as a series of (.flo) files.
+
 '''
 
 # import necessary packages

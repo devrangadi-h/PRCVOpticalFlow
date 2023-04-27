@@ -1,11 +1,15 @@
-# Source:https://github.com/sampepose/flownet2-tf/blob/master/src/flowlib.py
 
 '''
+
 Authors: Arun Madhusudhanan, Tejaswini Deore
 
 Project for CS 5330 Pattern Recogn & Comput Vision
 
 Title: Comparative Analysis of Optical Flow Techniques: Classical Computer Vision vs Deep Learning Approach
+
+Run V to convert sequence of (.flo) files to a sequence of (.png) files.
+
+Source: https://github.com/sampepose/flownet2-tf/blob/master/src/flowlib.py
 '''
 
 import matplotlib.pyplot as plt

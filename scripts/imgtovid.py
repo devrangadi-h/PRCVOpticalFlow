@@ -4,6 +4,9 @@ Authors: Arun Madhusudhanan, Tejaswini Deore
 Project for CS 5330 Pattern Recogn & Comput Vision
 
 Title: Comparative Analysis of Optical Flow Techniques: Classical Computer Vision vs Deep Learning Approach
+
+Run to convert sequence of (.png) images to a video (.mp4).
+
 '''
 
 import cv2

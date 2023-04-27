@@ -3,6 +3,7 @@
 //  Title: Comparative Analysis of Optical Flow Techniques: Classical Computer Vision vs Deep Learning Approach
 
 //  Project for CS 5330 Pattern Recogn & Computer Vision
+//  Run ClassicalCVOpticalFlow to either take a prerecorded video or stream from webcam to generate optical flow using Farneback algorithm and track the face based on the generated flow.
 
 //  Created by Hardik Devrangadi and Francis Jacob Kalliath on 4/22/23.
 //
