@@ -1,7 +1,9 @@
 //
 //  Deep Learning Computer Vision.cpp
-//  FinalProjectPRCV
-//
+//  Title: Comparative Analysis of Optical Flow Techniques: Classical Computer Vision vs Deep Learning Approach
+
+//  Project for CS 5330 Pattern Recogn & Computer Vision
+
 //  Created by Hardik Devrangadi and Francis Jacob Kalliath on 4/22/23.
 //
 
